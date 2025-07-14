@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Portrait from "@/public/WhatsApp Image 2025-01-29 at 00.32.50_841dcfa3.jpg";
 import RotatingText from '@/Components/RotatingText';
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
 import { BackgroundLines } from "@/Components/ui/background-lines";
 
 const Hero = () => {
